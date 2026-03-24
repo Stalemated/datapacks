@@ -1,0 +1,1 @@
+execute as @e[type=item,tag=!artifact_checked] run function artifact_protection:artifact_protection

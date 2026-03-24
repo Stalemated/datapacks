@@ -1,0 +1,73 @@
+{
+  "range": 6,
+  "school": "PHYSICAL_MELEE",
+  "learn": {
+    "tier": 2
+  },
+  "cast": {
+    "movement_speed": 0.5,
+    "animation": "forcemaster_rpg:burstcrack_cast",
+    "duration": 0.6
+  },
+  "release": {
+    "animation": "forcemaster_rpg:burstcrack_release",
+    "custom_impact": true,
+    "target": {
+      "type": "AREA",
+      "area": {
+        "distance_dropoff": "NONE",
+        "angle_degrees": 360.0
+      }
+    },
+    "particles": [
+      {
+        "particle_id": "large_smoke",
+        "shape": "PIPE",
+        "origin": "CENTER",
+        "count": 15.0,
+        "min_speed": 0.2,
+        "max_speed": 0.6
+      },
+      {
+        "particle_id": "forcemaster_rpg:ground_punch",
+        "shape": "CIRCLE",
+        "origin": "FEET",
+        "count": 1.0,
+        "min_speed": 0.01,
+        "max_speed": 0.05
+      }
+    ],
+    "sound": {
+      "id": "entity.generic.explode",
+      "volume": 0.4
+    }
+  },
+  "impact": [
+    {
+      "action": {
+        "type": "DAMAGE",
+        "damage": {
+          "spell_power_coefficient": 2.2
+        }
+      },
+      "particles": [
+        {
+          "particle_id": "smoke",
+          "shape": "PIPE",
+          "origin": "CENTER",
+          "count": 20.0,
+          "min_speed": 0.1,
+          "max_speed": 3.0
+        }
+      ],
+      "sound": {
+        "id": "forcemaster_rpg:knuckle_attack"
+      }
+    }
+  ],
+  "cost": {
+    "exhaust": 0.4,
+    "durability": 1,
+    "cooldown_duration": 6
+  }
+}

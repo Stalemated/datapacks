@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RPR",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:gold_ingot"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "forcemaster_rpg:phasleb_head",
+    "count": 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "replace": true,
+  "values": [
+    "archers:ranger_armor_head",
+    "archers:ranger_armor_chest",
+    "archers:ranger_armor_legs",
+    "archers:ranger_armor_feet",
+
+    "paladins:crusader_armor_head",
+    "paladins:crusader_armor_chest",
+    "paladins:crusader_armor_legs",
+    "paladins:crusader_armor_feet",
+
+    "paladins:prior_robe_head",
+    "paladins:prior_robe_chest",
+    "paladins:prior_robe_legs",
+    "paladins:prior_robe_feet",
+
+    "rogues:assassin_armor_head",
+    "rogues:assassin_armor_chest",
+    "rogues:assassin_armor_legs",
+    "rogues:assassin_armor_feet",
+
+    "rogues:berserker_armor_head",
+    "rogues:berserker_armor_chest",
+    "rogues:berserker_armor_legs",
+    "rogues:berserker_armor_feet",
+	
+    "spellbladenext:runegleaming_head",
+    "spellbladenext:runegleaming_chest",
+    "spellbladenext:runegleaming_legs",
+    "spellbladenext:runegleaming_feet",
+    
+    "spellbladenext:runeblazing_head",
+    "spellbladenext:runeblazing_chest",
+    "spellbladenext:runeblazing_legs",
+    "spellbladenext:runeblazing_feet",
+
+    "spellbladenext:runefrosted_head",
+    "spellbladenext:runefrosted_chest",
+    "spellbladenext:runefrosted_legs",
+    "spellbladenext:runefrosted_feet",
+
+    "wizards:arcane_robe_head",
+    "wizards:arcane_robe_chest",
+    "wizards:arcane_robe_legs",
+    "wizards:arcane_robe_feet",
+
+    "wizards:fire_robe_head",
+    "wizards:fire_robe_chest",
+    "wizards:fire_robe_legs",
+    "wizards:fire_robe_feet",
+
+    "wizards:frost_robe_head",
+    "wizards:frost_robe_chest",
+    "wizards:frost_robe_legs",
+    "wizards:frost_robe_feet",
+
+    "forcemaster_rpg:phasleb_head",
+    "forcemaster_rpg:phasleb_chest",
+    "forcemaster_rpg:phasleb_legs",
+    "forcemaster_rpg:phasleb_feet"
+  ]
+}

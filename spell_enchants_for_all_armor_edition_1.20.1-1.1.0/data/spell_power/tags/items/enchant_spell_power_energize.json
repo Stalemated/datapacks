@@ -1,0 +1,8 @@
+{ 
+  "replace": true,
+  "values": [
+    "#spellbladenext:herald_armor",
+    "#paladins:paladin_armors",
+    "#paladins:priest_robes"
+  ]
+}

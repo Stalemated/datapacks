@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "R R",
+    "T T"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:leather"
+    },
+    "T": {
+      "item": "minecraft:gold_ingot"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "forcemaster_rpg:phasleb_legs",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "simplyswords:brimstone_claymore",
+    "simplyswords:watching_warglaive",
+    "simplyswords:watcher_claymore",
+    "simplyswords:toxic_longsword",
+    "simplyswords:soulkeeper",
+    "simplyswords:righteous_relic",
+    "simplyswords:tainted_relic",
+    "simplyswords:waxweaver",
+    "simplyswords:dormant_relic",
+    "simplyswords:decaying_relic",
+    "soulsweapons:moonlight_shortsword",
+    "soulsweapons:bloodthirster",
+    "soulsweapons:lich_bane",
+    "soulsweapons:dawnbreaker",
+    "soulsweapons:darkin_scythe_pre",
+    "soulsweapons:kirkhammer",
+    "soulsweapons:silver_sword",
+    "soulsweapons:holy_moonlight_sword",
+    "soulsweapons:excalibur",
+    "soulsweapons:moonveil",
+    "soulsweapons:simons_blade",
+    "soulsweapons:bloodlust",
+    "#prominent:artifacts"
+  ]
+}

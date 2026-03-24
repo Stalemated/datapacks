@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#c:swords",
+    "#prominent:artifacts",
+    "soulsweapons:glaive_of_hodir",
+    "soulsweapons:excalibur",
+    "soulsweapons:moonveil",
+    "soulsweapons:dragonbane",
+    "soulsweapons:supernova",
+    "soulsweapons:mehrunes_razor",
+    "soulsweapons:tonitrus",
+    "soulsweapons:bloodlust"
+  ]
+}

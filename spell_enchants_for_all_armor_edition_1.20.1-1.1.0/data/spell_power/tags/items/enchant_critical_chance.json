@@ -1,0 +1,14 @@
+{ 
+  "replace": true,
+  "values": [
+    "#death_knights:dk_armors",
+    "#paladins:paladin_armors",
+    "#paladins:priest_robes",
+    "#spellbladenext:rune_armor",
+    "#spellbladenext:magister_armor",
+    "#spellbladenext:herald_armor",
+    "#spellbladenext:magus_armor",
+    "#wizards:wizard_robes",
+    "#forcemaster_rpg:forcemaster_armor"
+  ]
+}

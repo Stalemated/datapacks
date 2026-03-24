@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Makes Artifacts unpickable by players they're not soulbound to - By Stalemated",
+		"pack_format": 15
+    }
+}
