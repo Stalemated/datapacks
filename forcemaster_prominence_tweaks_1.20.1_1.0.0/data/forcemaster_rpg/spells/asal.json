@@ -50,7 +50,7 @@
       "action": {
         "type": "DAMAGE",
         "damage": {
-          "spell_power_coefficient": 3.0,
+          "spell_power_coefficient": 3.5,
           "knockback": 2.0
         }
       },
