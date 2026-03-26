@@ -71,7 +71,6 @@
     "durability": 4,
     "cooldown_duration": 4.0,
     "cooldown_proportional": true,
-    "cooldown_haste_affected": false,
     "item_id": "runes:fire_stone"
   }
 }

@@ -91,7 +91,6 @@
     "item_id": "runes:fire_stone",
     "exhaust": 40.0,
     "durability": 30,
-    "cooldown_haste_affected": true,
     "cooldown_duration": 15.0
   }
 }
