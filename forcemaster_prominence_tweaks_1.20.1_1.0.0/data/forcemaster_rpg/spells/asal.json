@@ -1,5 +1,5 @@
 {
-  "school": "FIRE",
+  "school": "SOUL",
   "range": 6.0,
   "learn": {
     "tier": 4
@@ -50,7 +50,7 @@
       "action": {
         "type": "DAMAGE",
         "damage": {
-          "spell_power_coefficient": 3.5,
+          "spell_power_coefficient": 12,
           "knockback": 2.0
         }
       },
@@ -85,10 +85,23 @@
           "spell_power_coefficient": 1.5
         }
       }
+    },
+    {
+      "action": {
+        "type": "STATUS_EFFECT",
+        "status_effect": {
+          "effect_id": "forcemaster_rpg:barq_esna",
+          "duration": 5.0,
+          "amplifier": 1,
+          "apply_mode": "ADD",
+          "show_particles": false
+        },
+        "apply_to_caster": false
+      }
     }
   ],
   "cost": {
-    "item_id": "runes:fire_stone",
+    "item_id": "runes:soul_stone",
     "exhaust": 40.0,
     "durability": 30,
     "cooldown_duration": 15.0

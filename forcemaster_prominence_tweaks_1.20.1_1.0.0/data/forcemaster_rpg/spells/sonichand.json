@@ -1,5 +1,5 @@
 {
-  "school": "FIRE",
+  "school": "SOUL",
   "range": 5.0,
   "learn": {
     "tier": 3
@@ -28,7 +28,7 @@
       "action": {
         "type": "DAMAGE",
         "damage": {
-          "spell_power_coefficient": 2.8
+          "spell_power_coefficient": 10
         }
       },
       "particles": [
@@ -71,6 +71,6 @@
     "durability": 4,
     "cooldown_duration": 4.0,
     "cooldown_proportional": true,
-    "item_id": "runes:fire_stone"
+    "item_id": "runes:soul_stone"
   }
 }
