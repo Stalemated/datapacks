@@ -63,6 +63,19 @@
       "sound": {
         "id": "forcemaster_rpg:knuckle_attack"
       }
+    },
+    {
+      "action": {
+        "type": "STATUS_EFFECT",
+        "status_effect": {
+          "effect_id": "forcemaster_soul:soul_overflow",
+          "duration": 3.0,
+          "amplifier": 4,
+          "apply_mode": "SET",
+          "show_particles": false
+        },
+        "apply_to_caster": true
+      }
     }
   ],
   "cost": {
