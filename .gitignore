@@ -1,3 +1,4 @@
 *.py
 *.zip
 special_chars.json
+/trades_gen
