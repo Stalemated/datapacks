@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "mcdw:crossbow_corrupted_crossbow",
+        "mcdw:crossbow_pride_of_the_piglins",
+        "mcdw:crossbow_veiled_crossbow",
+        "mcdw:crossbow_lightning_harp_crossbow"
+    ]
+}

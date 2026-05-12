@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Makes high-tier crossbows have an 8 enchant limit.",
+		"pack_format": 15
+    }
+}
